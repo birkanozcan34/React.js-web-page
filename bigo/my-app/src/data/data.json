@@ -1,0 +1,37 @@
+{
+    "Header": {
+
+        "title": "HOŞGELDİNİZ",
+        "paragraph": "Bu site react.js kullanılarak hazırlanmıştır."
+
+    },
+    "Hakkimda": {
+        "paragraph": "İstanbul Arel Üniversitesi Grafik-Web Tasasarım Bölümü mezunuyum. Şuan D&R Teknoloji ekibinde frontend developer olarak görev alıyorum. Güncel teknolojiler ile kendimi geliştirmeye çalışıyorum.",
+        "bigo": [
+            "HTML5",
+            "CSS3",
+            "Adobe Photoshop",
+            "Adobe illustrator",
+            "Sass",
+            "jquery",
+            "nopCommerce"
+        ],
+        "bigo2": [
+            "Javascript",
+            "Git",
+            "React.js",
+            "Less",
+            "Gulp",
+            "json",
+            "C#"
+        ]
+    },
+
+    "İletisim": {
+        "address": "İstanbul Kartal ",
+        "phone": "+90 530 846 86 89",
+        "email": "birkanozcan34@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/birkan-%C3%B6zcan-347aa792"
+    }
+    
+}
